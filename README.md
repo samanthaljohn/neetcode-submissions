@@ -1,12 +1,12 @@
 # NeetCode Solutions — @samanthaljohn
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Started 07/29/2026.
 
 ---
 
 ## What is this?
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with my accepted solutions.
+[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with my accepted solutions across the languages I am currently keeping up with!
 
 ---
 
